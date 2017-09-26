@@ -8,10 +8,13 @@ Add the `CardKit.swift` file to your Xcode project.
 
 ### Storyboard
 * Add a UIView
+
 ![UIView](https://raw.githubusercontent.com/CTKRocks/CardKit/master/Images/UIView.png)
 * Change it to a `CardView`
+
 ![CardView](https://raw.githubusercontent.com/CTKRocks/CardKit/master/Images/CardView.png)
 * Change any settings
+
 ![Options](https://raw.githubusercontent.com/CTKRocks/CardKit/master/Images/Storyboard.png)
 
 # Options
